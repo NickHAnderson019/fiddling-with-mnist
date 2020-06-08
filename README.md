@@ -8,4 +8,4 @@ To create the CNN model, run mnist_cnn_train.ipynb. Alternatively, you can use t
 Once you have created a model, you can run the mnist_feature_extraction.ipynb file. This file attempts to take a look under the hood of
 the CNN to try understand what features are being extracted per filter, per layer.
 
-![Example of extracted feautures](models/eg_features.PNG)
+![Example of extracted feautures](images/eg_features.PNG)
